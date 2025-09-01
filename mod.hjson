@@ -1,7 +1,7 @@
-name: a-c
+name: ac
 displayName: A-Classes
 repo: Caboosket/A-Classes
-main: a-c.Classes
+main: ac.Classes
 description: Thing to make Annoica work.
 version: 1
 subtitle: classin
