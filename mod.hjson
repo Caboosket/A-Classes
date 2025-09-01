@@ -1,0 +1,10 @@
+name: a-c
+displayName: A-Classes
+repo: Caboosket/A-Classes
+main: a-c.Classes
+description: Thing to make Annoica work.
+version: 1
+subtitle: classin
+minGameVersion: 150.1
+java: true
+author: [orange]Caboosket
