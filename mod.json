@@ -1,0 +1,13 @@
+{
+    "name":"ac",
+    "displayName":"A-Classes",
+    "repo":"Caboosket/A-Classes",
+    "main":"ac.Classes",
+    "description":"Thing to make Annoica work.",
+    "version":"1.0.0",
+    "subtitle":"classin",
+    "minGameVersion":"150.1",
+    "hidden":"true",
+    "java":"true",
+    "author":"[orange]Caboosket"
+}
